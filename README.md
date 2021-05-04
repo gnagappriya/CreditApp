@@ -1,2 +1,1 @@
-# CreditApp
-CreditApp
+Credit Score
